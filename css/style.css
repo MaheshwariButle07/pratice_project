@@ -1,0 +1,15 @@
+.main-icon{
+    height: 80px;
+    
+}
+
+.menu{
+    margin: 10px ;
+    padding: 10px 20px;
+    background-color: #d318d3;
+    color: black;
+    text-decoration: none;
+    border-radius: 5px;
+    display: inline-block;
+    
+}
